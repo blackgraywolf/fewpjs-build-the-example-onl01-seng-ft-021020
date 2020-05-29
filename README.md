@@ -1,4 +1,4 @@
-submit# Stitching Together the Three Pillars
+# Stitching Together the Three Pillars
 
 ## Learning Goals
 
